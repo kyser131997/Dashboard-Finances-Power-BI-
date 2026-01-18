@@ -7,9 +7,7 @@ Il permet d’analyser les **revenus**, les **dépenses**, l’**épargne** et l
 
 Ce dashboard a été conçu dans une logique **Business / Data Analytics**, avec un fort accent sur la lisibilité, la cohérence des indicateurs et la valeur métier.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5d27aa63-71b0-4544-a4b1-7663555fabd1" width="60%">
-</p>
+
 
 
 ---
