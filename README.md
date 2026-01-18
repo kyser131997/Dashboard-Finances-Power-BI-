@@ -3,7 +3,7 @@
 
 ## 🎯 Présentation
 Ce projet présente un tableau de bord Power BI dédié au suivi et au pilotage de finances personnelles.  
-Il permet d’analyser les **revenus**, les **dépenses**, l’**épargne** et leur évolution dans le temps, afin d’aider à la prise de décision budgétaire.
+Il permet d’analyser les revenus, les dépenses, l’épargne et leur évolution dans le temps, afin d’aider à la prise de décision budgétaire.
 
 Ce dashboard a été conçu dans une logique **Business / Data Analytics**, avec un fort accent sur la lisibilité, la cohérence des indicateurs et la valeur métier.
 
@@ -13,9 +13,9 @@ Ce dashboard a été conçu dans une logique **Business / Data Analytics**, avec
 ---
 
 ## 🧩 Objectifs du projet
-- Suivre l’évolution mensuelle des **dépenses**
-- Mesurer le **taux d’épargne**
-- Identifier les **principaux postes de dépenses**
+- Suivre l’évolution mensuelle des dépenses
+- Mesurer le taux d’épargne
+- Identifier les principaux postes de dépenses
 - Comparer les performances financières d’une année à l’autre
 - Fournir une vue synthétique et exploitable rapidement
 
@@ -41,24 +41,8 @@ Ce dashboard a été conçu dans une logique **Business / Data Analytics**, avec
 
 ## 🧱 Stack technique
 - **Power BI Desktop**
-- **Excel / CSV** (source de données)
+- **Microsoft Fabric**
 - **DAX** (mesures et indicateurs)
-
----
-
-## 📂 Structure du dépôt
-```text
-├── dashboard/
-│   └── dashboard_finances.pbix
-├── data/
-│   └── sample_transactions.csv   # données anonymisées (optionnel)
-├── docs/
-│   └── screenshots/
-│       ├── overview.png
-│       ├── kpi.png
-│       └── repartition.png
-└── README.md
-````
 
 ---
 
