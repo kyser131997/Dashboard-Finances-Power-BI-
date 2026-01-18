@@ -100,7 +100,7 @@ Les mesures sont implémentées directement dans le fichier Power BI via **DAX**
 
 ## 📸 Aperçu
 
-Des captures du dashboard sont disponibles dans le dossier `docs/screenshots/`.
+il ya une capture du dashboard disponible qui est le fichier `image`.
 
 ---
 
@@ -113,12 +113,6 @@ Des captures du dashboard sont disponibles dans le dossier `docs/screenshots/`.
 
 ---
 
-## 📬 Contact
-
-* LinkedIn : *à compléter*
-* Email : *à compléter*
-
----
 
 ✨ *Projet réalisé dans une démarche Data / Business Analytics, orientée pilotage et prise de décision.*
 
